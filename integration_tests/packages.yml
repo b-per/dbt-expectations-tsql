@@ -1,0 +1,11 @@
+packages:
+  - local: ../
+  # - local: ../dbt-expectations
+  - git: https://github.com/dbt-msft/tsql-utils
+    revision: main
+  # - local: /home/bper/dev/forks/dbt-expectations
+  - package: calogica/dbt_expectations
+    version: 0.2.8
+  # - package: dbt-msft/tsql_utils
+  #   version: 0.6.6
+  - git: https://github.com/b-per/dbt-date-tsql

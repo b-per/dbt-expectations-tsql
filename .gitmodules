@@ -1,0 +1,3 @@
+[submodule "dbt-expectations"]
+	path = dbt-expectations
+	url = https://github.com/calogica/dbt-expectations
