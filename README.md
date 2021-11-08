@@ -1,6 +1,6 @@
-# dbt-expectations-tsql
+# This repo is now Archived. SQL Server support for [`dbt-expectations`](https://github.com/calogica/dbt-expectations) is part of the package [`tsql-utils`](https://github.com/dbt-msft/tsql-utils)
 
-*This package is still in development*
+# dbt-expectations-tsql
 
 This [dbt](https://github.com/fishtown-analytics/dbt) package contains macros for supporting [`dbt-expectations`](https://github.com/calogica/dbt-expectations) on SQL Server and Azure SQL DB.
 
